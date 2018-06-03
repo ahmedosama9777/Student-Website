@@ -1,0 +1,28 @@
+Group 2 
+Student's Website
+Version 2.0
+
+New Features
+Post to board
+Comment on post
+View Profile
+GPA Calculator
+Search Users
+View Timetable
+View Projects
+ 
+Removed Features 
+Change Password
+
+
+Enhanced Performance
+n\a
+
+Enhanced Look-and-Feel
+We updated the interface to be more user friendly and aesthetically pleasing, adjusted fonts and sizes of photo.
+
+Unsupported Functionality
+n\a
+
+Fixed Bugs
+n\a
