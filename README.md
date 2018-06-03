@@ -1,4 +1,4 @@
-# Student-s-Website
+# Student-Website
 
 INTRODUCTION
 
